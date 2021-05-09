@@ -1,0 +1,2 @@
+ls /homes
+echo "hola"

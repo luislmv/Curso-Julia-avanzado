@@ -1,0 +1,7 @@
+echo "Número de parámetros: $#."
+echo "Nombre del script: $0."
+echo "El valor del parámetro 1 es: $1."
+echo "El valor del parámetro 2 es: $2."
+echo "Cadena con todos los parámetros: $@."
+echo "Arreglo con todos los parámetros: $*."
+echo "PID del proceso del script: $$."

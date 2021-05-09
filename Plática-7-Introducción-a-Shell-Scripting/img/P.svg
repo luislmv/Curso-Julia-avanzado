@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="22cm" viewBox="253 53 435 437" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Fondo">
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="427.05" y="232.5" width="68.9" height="54" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="461.5" y="255.087">
+        <tspan x="461.5" y="255.087">Proceso</tspan>
+        <tspan x="461.5" y="271.087">(PID)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="460.961" y1="199.499" x2="461.3" y2="220.266"/>
+      <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="456.301,220.347 461.463,230.264 466.3,220.184 "/>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="400.102,128.5 546.122,128.5 520.645,198.5 374.624,198.5 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460.373" y="151.088">
+        <tspan x="460.373" y="151.088">Entrada estándar</tspan>
+        <tspan xml:space="preserve" x="460.373" y="167.088"> de datos (STDIN) </tspan>
+        <tspan x="460.373" y="183.088">(0)</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="280.378,314.8 440.598,314.8 415.121,384.8 254.9,384.8 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="347.749" y="337.388">
+        <tspan x="347.749" y="337.388">Salida estándar</tspan>
+        <tspan xml:space="preserve" x="347.749" y="353.388"> de datos (STDOUT) </tspan>
+        <tspan x="347.749" y="369.388">(1)</tspan>
+      </text>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="518.204,315.1 687.674,315.1 662.197,385.1 492.726,385.1 "/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="590.2" y="337.688">
+        <tspan x="590.2" y="337.688">Salida estándar</tspan>
+        <tspan xml:space="preserve" x="590.2" y="353.688"> de errores (STDERR) </tspan>
+        <tspan x="590.2" y="369.688">(2)</tspan>
+      </text>
+    </g>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="427.05,259.5 427.05,258.374 360.488,258.374 360.488,302.564 "/>
+      <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="355.488,302.564 360.488,312.564 365.488,302.564 "/>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 381.774 434.5 L 587.024,434.5 C 615.363,434.5 638.337,446.588 638.337,461.5 C 638.337,476.412 615.363,488.5 587.024,488.5 L 381.774,488.5 C 353.435,488.5 330.462,476.412 330.462,461.5 C 330.462,446.588 353.435,434.5 381.774,434.5z"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="484.399" y="457.088">
+        <tspan x="484.399" y="457.088">No hay error $?=0</tspan>
+        <tspan x="484.399" y="473.088">Hay error ?=N, (N entero positivo)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="335.01" y1="384.8" x2="472.789" y2="430.637"/>
+      <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="471.21,435.382 482.277,433.794 474.367,425.893 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="577.46" y1="385.1" x2="495.207" y2="428.763"/>
+      <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="492.862,424.347 486.374,433.452 497.551,433.179 "/>
+    </g>
+    <g>
+      <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" d="M 393.064 55.875 L 552.414,55.875 C 574.415,55.875 592.251,64.3816 592.251,74.875 C 592.251,85.3684 574.415,93.875 552.414,93.875 L 393.064,93.875 C 371.062,93.875 353.226,85.3684 353.226,74.875 C 353.226,64.3816 371.062,55.875 393.064,55.875z"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="472.739" y="70.4625">
+        <tspan x="472.739" y="70.4625">Inicio de un proceso</tspan>
+        <tspan x="472.739" y="86.4625">(Instancia de un programa)</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="472.877" y1="94.8273" x2="473.027" y2="116.264"/>
+      <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="468.027,116.299 473.096,126.264 478.027,116.229 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="638.9" y="120.75">
+      <tspan x="638.9" y="120.75"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="495.95,259.5 602.939,259.5 602.939,302.864 "/>
+      <polygon style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" points="597.939,302.864 602.939,312.864 607.939,302.864 "/>
+    </g>
+  </g>
+</svg>

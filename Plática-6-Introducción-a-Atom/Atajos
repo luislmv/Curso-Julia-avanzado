@@ -1,0 +1,27 @@
+Alt+← Mueve el cursor al inicio de la palabra.
+
+Alt+→ Mueve el cursor al final de la palabra.
+
+Inicio/Home Mueve el cursor al inicio de la linea actual.
+
+Fin/End Mueve el cursor al final de la linea actual.
+
+Control+Inicio/Home Mueve el cursor al inicio del archivo.
+
+Control+Fin/End Mueve el cursor al final del archivo.
+
+Ctrl+G Abre un input que nos permite escribir la linea y la columna a la que queremos ir:
+
+10:5 Nos lleva a la linea 10 y la columna 5.
+
+Ctrl+G Abre un input en el cual podemos movernos por las funciones definidas.
+
+Ctrl+Shift+F2 Crea un marcador en la linea actual.
+
+F2 Para moverse por los marcadores de arriba hacia abajo.
+
+Shift+F2 Para moverse por los marcadores de abajo hacia arriba.
+
+Ctrl+F2 Muestra una lista con todos los marcadores.
+
+En mi caso Ctrl+F2 coincide con la selección de uno de mis escritorios virtuales. Por esa razón, yo lo cambié a Ctrl-Alt-Shift-f2. La forma de hacerlo, está en la documentación.
